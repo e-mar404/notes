@@ -10,7 +10,7 @@ deny access to aws resources.
 
 **Types of Identities**:
 
-1. IAM Users
+1. IAM [[users]]
 2. IAM Groups
 3. IAM Roles
 
