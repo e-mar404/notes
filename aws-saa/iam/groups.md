@@ -2,7 +2,7 @@
 tags = ['iam']
 +++
 
-# IAM Groups
+# Groups
 
 Simply put are just containers for [[users]], groups are **not** able to log in and
 do not have any credentials. 
