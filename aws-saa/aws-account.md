@@ -1,4 +1,4 @@
-# AWS Accounts - The basics
+# AWS Account
 
 Anki QA:
 
