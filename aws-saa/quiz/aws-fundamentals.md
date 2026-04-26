@@ -1,5 +1,5 @@
 +++
-tags = ['aws-fundamentals']
+tags = ['quiz']
 +++
 
 <!--toc:start-->
