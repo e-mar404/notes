@@ -75,3 +75,10 @@ This is used a lot more *in practice*, where companies might want to use
 existing on-premises identities or an external idp. This way there is a single
 [[#Member]] (or [[#Management]]) account that holds all the [[iam]] identities
 and then use role switching to authenticate on other [[#Member]] accounts.
+
+### Role Switching
+
+When role switching you need to have role that trusts the [[#Management]]
+account and has enough permissions to to whatever you need to do. By default
+when you are [[#Adding Accounts]] and use the "Create Account" method instead of
+inviting an account it creates a role called **OrganizationAccountAccessRole**.
