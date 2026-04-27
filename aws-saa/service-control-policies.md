@@ -1,5 +1,5 @@
 +++
-tags = []
+tags = ['spc', 'permissions', 'aws-organization']
 +++
 
 # Service Control Policies
