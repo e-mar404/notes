@@ -2,12 +2,7 @@
 tags = ['quiz']
 +++
 
-<!--toc:start-->
-- [Quiz](#quiz)
-<!--toc:end-->
-
 # Quiz
-
 
 1. What permission options does an AMI have?
 A: Punic access, owner only, specific AWS accounts
