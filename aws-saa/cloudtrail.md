@@ -71,3 +71,8 @@ A really big limitation for CloudTrail is that it usually takes 5-15 minutes for
 logs to make it into the management console, meaning this is **not a real time
 service** so you cannot rely on the information that you get from here to make a
 call on what is currently happening. 
+
+## Pricing
+
+There are some charges for CloudTrail which can be found
+[here](https://aws.amazon.com/cloudtrail/pricing/).
